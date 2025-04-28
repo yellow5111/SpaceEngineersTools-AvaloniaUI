@@ -1,10 +1,10 @@
 # Space Engineers Tools - WIP for VRage2.HUB
 
-yellow51 Description:
+## yellow51 Description:
 
 WIP, currently integrating into VRage2.HUB. 
 
-Originally from michi84o, below is his description - will add my own above:
+## Originally from michi84o, below is his description - will add my own above:
 
 Warning, all my tools that handle planet data files only support 2048x2048 sized images!
 
